@@ -1,5 +1,4 @@
 # Responsive Sushi Website
-## [Watch it on youtube](https://youtu.be/HW1zt2EPMqY)
 ### Responsive Sushi Website
 
 - Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
